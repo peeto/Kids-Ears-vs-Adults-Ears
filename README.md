@@ -1,7 +1,7 @@
 # Kids-Ears-vs-Adults-Ears
 An implementation of some science I've been testing throughout my life
 
-I've read on the Internet about kids using high frequencies as ring tones on their phones so their parents can't hear their phones ring. Before I was a teen I could up to around 24kHz and now I can't even hear 18kHz. So for all your fun I've created a 22.05kHz tone for just that purpose. If you want to know why I chose that particular frequency or how it could backfire you'll have to read on. I've also added some other sounds out of inspiration. Here's the list:
+I've read on the Internet about kids using high frequencies as ring tones on their phones so their parents can't hear their phones ring. Before I was a teen I hear could up to around 24kHz and now I can't even hear 18kHz. So for all your fun I've created a 22.05kHz tone for just that purpose. If you want to know why I chose that particular frequency or how it could backfire you'll have to read on. I've also added some other sounds out of inspiration. Here's the list:
 
 1. built/ear-kids-vs-adults.wav
 2. built/the-brown-sound.wav
