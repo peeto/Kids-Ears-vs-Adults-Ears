@@ -14,7 +14,7 @@ Descriptions:
 
 2. Inspired by South Park
 
-3. I was scouring the Internet for the worst frequency imaginable and couldn't find an exact number but this seem to be popular. I made it end in 37 just to be horrible.
+3. I was scouring the Internet for the worst frequency imaginable and couldn't find an exact number but this seems to be popular. I made it end in 37 just to be horrible.
 
 4. This is a video of just a sound I made. it was inspired by being on hold to the Australian government and being subjected to hold music. I had the idea of creating background music to play back to them when they eventually answer the phone.
 
